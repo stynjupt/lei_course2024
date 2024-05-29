@@ -1,0 +1,136 @@
+ctrl+alt+l：选中文本格式化
+向后缩进：TAB
+向前缩进：shift+TAB
+长截屏     	ctrl+alt+Z
+矩形截屏		ctrl+alt+A
+录屏		ctrl+alt+S
+截图+贴图软件推荐：snipaste
+录屏软件：OBS Studio
+vscode  ctrl+K ctrk+0 全部折叠
+
+
+1-3   1500个 7月7.8.9  300个决赛
+500个  半天  50/个每场  360  19205793955
+
+ http://127.0.0.1:17860
+
+动物种群算法：蜻蜓算法，乌鸦搜索算法
+
+一个好的经验法则是拥有一个与主要互联网服务不同的技术的备份连接。如果您的数据中心当前的连接是城域以太网或基于光纤的连接，那么来自其他运营商的同轴电缆连接（也称为电缆调制解调器）将是一个不错的备份选项。如果您的本地数据中心较小，并且当前使用同轴电缆连接运行，则安装备份 DSL 或 FiOS 选项应该足以在发生故障时帮助提供临时带宽。
+最好从与主连接不同的运营商处购买备用线路。
+定期测试互联网故障转移也很重要。
+
+
+
+
+
+面向大数据与云计算调度挑战的阿里经济体核心调度系统(网页)
+储能电池参与电力系统二次调频控制策略研究
+
+
+工作流调度算法：关键路径方法与粒子群优化算法相结合
+Deadline constrained cloud computing resources scheduling for cost optimization based on dynamic objective genetic algorithm
+
+主动冗余
+Quantitative Fault-tolerance for Reliable Workflows on Heterogeneous IaaS Clouds
+Reliable workflow scheduling with less resource redundancy
+
+
+
+International Symposium on Symbolic & Numeric Algorithms for Scientific Computing.
+
+考虑异构服务器+高流量虚拟机集群
+SLA aware cost efficient virtual machines placement in cloud computing
+
+多数据中心负载调度
+Minimizing electricity cost: optimization of distributed internet data centers in a multi-electricity-market environment
+Global cost diversity aware dispatch algorithm for heterogeneous data centers
+A survey on geographic load balancing based data center power management in the smart grid environment
+Operating cost reduction for distributed internet data centers
+Green power analysis for geographical load balancing based datacenters
+
+
+在线负载电价驱动调度
+Integrating Renewable Energy Using Data Analytics Systems: Challenges and Opportunities
+离线负载可再生能源驱动调度
+Design and evaluation of an energy agile computing cluster
+
+
+
+
+
+
+多数据中心虚拟机迁移
+Towards cost-aware VM migration to maximize the profit in federated clouds
+
+
+网络流量
+Load balancing for heterogeneous traffic in datacenter networks 2023
+
+Beyond the mega-data center: networking multi-data center regions 2020
+
+Gradient Kernelized Cat Boost Pre-Emptive Traffic Aware Data Distribution in Cloud Computing 2023
+
+Reliable Provisioning with Degraded Service Using Multipath Routing from Multiple Data Centers in Optical Metro Networks 2023
+Data Center Networks: Address Scheming, Traffic Distribution, and Load Balancing 2021
+
+
+数据中心多播
+Reliable multicast in data center networks
+多播传输多块数据
+SVC videoconferencing call adaptation and bandwidth usage in SDN networks.
+
+
+
+
+https://blog.csdn.net/solihawk/article/details/124680058
+
+
+http://e-press.dwjs.com.cn/pcsee/periodical/html/2019-39-05-1301.html
+
+
+
+ [1]余潇潇,马玉草,宋福龙等.数据中心能耗建模及能量调节综述[J].电力信息与通信技术,2022,20(08):38-49.DOI:10.16543/j.2095-641x.electric.power.ict.2022.08.004.
+ 
+Power Modeling for Energy-Efficient Resource Management in a Cloud Data Center（不开源）
+
+Energy efficiency vs. performance of the numerical solution of PDEs: An application study on a low-power ARM-based cluster（不开）
+
+Data Center Energy Consumption Modeling——A Survey.pdf（有）
+
+Versatility or validity: A comprehensive review on simulation of datacenters powered by renewable energy mix
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2007年，IBM公司宣布了一项投入10亿美元打造“绿色”数据中心的计划，该计划旨在提高数据中心的计算能力，同时不增加能耗，从而每年节约大量电力；同年，绿色网格（TGG）首次在数据中心领域提出能源使用效率（PUE）这一概念，PUE作为一个衡量数据中心电力使用效率的重要指标，其值越接近1，表明数据中心的能效水平越好。这一概念的提出，对于推动数据中心的绿色化、节能和环保水平的提升具有重要意义。由此可见，这一时期标志着数据中心行业对于能源效率和环境保护的重视程度的提升，同时也促进了相关技术和标准的快速发展。
+绿色数据中心是指在其设计、建造和运营过程中，采用了节能环保技术和措施，旨在减少能源消耗、降低运行成本、减少对环境的影响的数据中心。这些数据中心通常采用了一系列的高效能源管理系统，包括但不限于使用节能服务器和存储设备、采用高效冷却系统、实施严格的能源管理策略、以及优化数据中心的整体布局等。综合节能减排、智能化的能源管理、可再生能源利用等多个特点与目标，绿色数据中心的推广和发展也是响应国家节能减排、绿色发展政策的一部分，旨在推动构建资源节约型、环境友好型社会，符合国家长远发展战略和生态文明建设的要求。通过建设绿色数据中心，不仅可以节约资源和保护环境，还可以促进产业升级和技术创新，对实现可持续发展和推动经济社会全面绿色转型具有重要意义。
+
+
+
+      《重返五四现场》以其详实的历史资料和生动的叙述，将读者带回到了那个风起云涌的时代，让他们对五四运动有了更为全面和深入的认识。
+	书中对五四运动前的社会背景进行了详细的描述：当时的中国内忧外患，国家分裂、民族危亡、社会动荡，都为五四运动的爆发埋下了伏笔。在这样的历史背景下，青年学生们挺身而出，以激昂的热情和坚定的信念，为国家的未来和民族的命运奋斗。
+	叶曙明先生详细介绍了新文化运动对五四运动的影响，以及五四运动对新文化运动的推动。通过他的叙述，读者可以看到了一场思想解放的浪潮，如何激发了青年学生的爱国热情和改革意识。
+	书中也深入刻画了五四运动中的代表性人物，如陈独秀、鲁迅、胡适等。这些人物不仅是五四运动的领导者，更是那个时代思想的代表。他们的思想和行动，对五四运动的发展产生了深远的影响。
+	五四运动不仅是一场爱国主义运动，更是一次深刻的思想解放和文化革新的过程。它不仅推动了中国社会的进步，更为后来的中国革命和文化发展奠定了基础。作为当代青年，我们应该继承和发扬五四运动的精神，为国家的繁荣和民族的复兴贡献自己的力量。
+
+
+        1 IT设备
+对IT负载的能耗建模重点研究了服务器的能耗建模。现有模型可分为回归和非回归模型两大类。非回归模型包括加性、动态及温度相关模型，其中动态模型研究较为丰富，可分为线性和非线性模型。回归模型也分为线性和非线性模型，进一步细分为单变量和多变量模型。多变量模型考虑了多个指标，建模更复杂。非线性模型包括多项式、套索回归、支持向量机、DNN、高斯混合模型等。网络设备和存储设备是IT设备中能耗次多的部分，但研究较少。网络设备能耗建模将能耗与服务器工作比例或传输流量动态消耗联系起来。存储设备能耗模型主要分为粗粒度和细粒度，其中细粒度模型考虑磁盘内部活动与能耗关系，而粗粒度模型则采用简单标量预测能耗。
+2 冷却系统
+冷却系统能耗建模关注CRAC和制冷机。CRAC模型考虑制冷量、风扇速度等因素与制冷功耗关系。制冷机中，冷水机组压缩机能耗占数据中心冷却能耗的大部分。冷水机功率取决于提取的热量、冷冻水温度、水流量、外部温度和湿度。数据中心整体冷却能耗建模通常采用加性模型，考虑风扇、制冷机组、泵、灯、湿度控制等。
+3 电源调节系统
+电源调节系统能耗建模集中在PDU和UPS。PDU作为电力电子设备，会产生恒定功率损耗及与服务器负载平方成正比的损耗。UPS能耗建模研究有限，有研究将其能耗表示为固定功耗和PDU总功耗之和，或认为配电功耗与服务器和网络功耗成正比，考虑整流器和逆变器工作效率。
+
